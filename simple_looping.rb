@@ -31,9 +31,9 @@ end
 end
 
 def for_iterator(x)
-  number_of_times = 1...7
   for number in number_of_times
   puts = "Welcome to Flatiron School's Web Development Course!"
+  number_of_times = 1...7
 end
 end
 end

@@ -24,6 +24,7 @@ while counter < 7
   counter += 1
 end
 end
+end
 
 def until_iterator(number_of_times)
 end
